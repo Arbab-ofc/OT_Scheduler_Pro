@@ -7,6 +7,13 @@ A React + Vite SaaS-style web app for managing operating theatre schedules with 
 - 🔐 Auth: Email/password + Google; profile editing & password reset
 - 🗂️ Docs: Inline document viewing (images/PDF) via Cloudinary
 - 📅 Scheduling: Admin dashboards, status updates, conflict detection
+- 🌐 Live site: https://hospital-755ae.web.app
+- 📂 Repo: https://github.com/Arbab-ofc/OT_Scheduler_Pro
+
+<p>
+  <a href="https://hospital-755ae.web.app" target="_blank" rel="noreferrer" style="display:inline-block;margin-right:8px;padding:10px 14px;background:#2563eb;color:#fff;border-radius:8px;font-weight:700;text-decoration:none;">Live Demo</a>
+  <a href="https://github.com/Arbab-ofc/OT_Scheduler_Pro" target="_blank" rel="noreferrer" style="display:inline-block;padding:10px 14px;border:1px solid #2563eb;color:#2563eb;border-radius:8px;font-weight:700;text-decoration:none;">View on GitHub</a>
+</p>
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
