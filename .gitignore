@@ -1,0 +1,22 @@
+node_modules/
+dist/
+dist-ssr/
+.DS_Store
+.vscode
+.idea
+
+# Logs
+*.log
+.pnpm-debug.log
+npm-debug.log
+yarn-error.log
+.eslintcache
+
+# Env files
+.env
+.env.*
+!.env.local.example
+
+# Coverage / build artefacts
+coverage
+.turbo

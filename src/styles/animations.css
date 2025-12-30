@@ -1,0 +1,7 @@
+.fade-in {
+  animation: fade-in 300ms ease-in-out;
+}
+
+.slide-up {
+  animation: slide-up 300ms ease-in-out;
+}
